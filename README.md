@@ -1,1 +1,1 @@
-# product-service
+# @nuxt4-layers/product-service
